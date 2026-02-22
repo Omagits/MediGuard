@@ -3,7 +3,7 @@ MediGuard: Drug Interaction & Side-Effect Advisory Expert System
 Overview:
 
 MediGuard is a rule-based expert system developed in Python to perform an initial assessment of medication safety. It evaluates selected medicines together with patient factors (age, pregnancy status, and medical conditions) to identify drug–drug interactions, contraindications, and clinically significant risks.
-The system is designed for educational decision-support and does not replace professional medical judgement.
+The system is designed for educational decision-support and does not replace professional medical judgement. 
 
 
 Aim:
